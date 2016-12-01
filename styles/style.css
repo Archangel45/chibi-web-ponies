@@ -36,17 +36,18 @@ img {
 	display: block;
 }
 
-h2 {
+h2, h3 {
 	color: #3F79BF;
 	margin: 0 auto auto 20px;
-	
+	font-size: 16px;
 }
 
 a {
 	color: #D6D337;
 }
 
-button {
-	margin: 0 auto;
-	display: block;
+#notice-warning {
+	background-color: #898989;
+	color: black;
+	padding: auto;
 }
