@@ -7,4 +7,3 @@ This is a website used for connecting to my social accounts. It's also a site fo
   * Added a new html file (about_the_leader.html)
   * Made a notice for users to know what's happening
   * Modified the style.css file
-  * Removed the main.js since it is not yet necessary for interactivity...yet
